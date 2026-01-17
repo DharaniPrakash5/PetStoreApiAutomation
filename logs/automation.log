@@ -1,0 +1,15 @@
+09:57:34.118 [main] INFO  api.test.UsetTest - Test data setup completed
+09:57:34.165 [main] INFO  api.test.UsetTest - Creating user
+09:57:36.980 [main] INFO  api.test.UsetTest - Reading user
+09:57:38.208 [main] INFO  api.test.UsetTest - Updating user
+09:57:39.421 [main] INFO  api.test.UsetTest - Deleting user
+09:57:51.326 [main] INFO  api.test.UsetTest - Test data setup completed
+09:57:51.366 [main] INFO  api.test.UsetTest - Creating user
+09:57:54.078 [main] INFO  api.test.UsetTest - Reading user
+09:57:55.353 [main] INFO  api.test.UsetTest - Updating user
+09:57:56.660 [main] INFO  api.test.UsetTest - Deleting user
+10:31:50.716 [main] INFO  api.test.UsetTest - Test data setup completed
+10:31:50.733 [main] INFO  api.test.UsetTest - Creating user
+10:31:53.631 [main] INFO  api.test.UsetTest - Reading user
+10:31:54.923 [main] INFO  api.test.UsetTest - Updating user
+10:31:56.173 [main] INFO  api.test.UsetTest - Deleting user
